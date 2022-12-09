@@ -1,9 +1,9 @@
 ---
 name: Bug report
 about: Create a report to help us track and resolve server issues.
-title: ''
+title: BUG
 labels: bug
-assignees: ''
+assignees: CraftXpNetwork
 
 ---
 
